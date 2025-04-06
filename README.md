@@ -20,9 +20,6 @@ A simple console-based Java application that allows users to track their daily r
 
 ├── Task.java ├── README.md └── [username]_Productivity_Calculator.txt (generated per user)
 
-yaml
-Copy
-Edit
 
 ---
 
@@ -31,12 +28,13 @@ Edit
 1. **Compile the program**  
    ```bash
    javac Task.java
-Run the application
-
-bash
-Copy
-Edit
+   
+2.Run the application
 java Task
+
+---
+
+
 🧠 Usage Flow
 Choose to create a new user or log in as an existing one.
 
@@ -54,9 +52,7 @@ User data is stored as plain text without encryption.
 Only console interface (no GUI or database integration).
 
 📌 Sample Output
-plaintext
-Copy
-Edit
+
 ___________________     PRODUCTIVITY CALCULATOR APP     __________________
 
 || THIS IS A PLACE WHERE YOU CAN KEEP TRACK OF YOUR DAILY ROUTINE TASKS  ||
